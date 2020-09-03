@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceActivity</string>
+    <string name="local_service_started">启动了服务</string>
+    <string name="local_service_label">My name is LiYan</string>
+    <string name="local_service_stopped">服务关闭</string>
+    <string name="local_service_disconnected">not connect service</string>
+    <string name="local_service_connected">local service connected</string>
+</resources>

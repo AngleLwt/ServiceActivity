@@ -1,0 +1,2 @@
+rootProject.name='ServiceActivity'
+include ':app'
